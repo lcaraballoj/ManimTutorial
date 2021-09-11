@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/linneacaraballo/Documents/ManimTutorial/media/videos/rotation/1080p60/partial_movie_files/Positions/450974505_3120652542_1596618053.mp4'
+file 'file:/Users/linneacaraballo/Documents/ManimTutorial/media/videos/rotation/1080p60/partial_movie_files/Positions/34786186_398514950_3988824165.mp4'
